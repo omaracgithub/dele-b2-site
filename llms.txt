@@ -1,40 +1,56 @@
-# DELE B2 Prep App
+# DELE B2 Practice
 
-> Mobile app for preparing the DELE B2 Spanish language exam
+> iOS app for preparing the official DELE B2 Spanish exam from Instituto Cervantes.
 
 ## About
 
-DELE B2 Prep is an iOS app that helps learners prepare for the DELE B2 (Diploma de Español como Lengua Extranjera, nivel B2) exam issued by Instituto Cervantes. The app provides realistic practice exams following the official format.
+DELE B2 Practice is a mobile app that helps candidates prepare for the DELE B2 (Diploma de Español como Lengua Extranjera, level B2) exam. It provides 7 complete mock exams in the official Instituto Cervantes format with real audio, AI-powered writing correction, detailed explanations, and progress tracking.
 
-## Exam Coverage
+## Key Facts
 
-The app covers all four sections of the DELE B2 exam:
-- Reading Comprehension (Comprensión de lectura) — 4 tasks, 70 minutes
-- Listening Comprehension (Comprensión auditiva) — 5 tasks, 40 minutes
-- Written Expression and Interaction (Expresión e interacción escritas) — 2 tasks, 80 minutes
-- Oral Expression and Interaction (Expresión e interacción orales) — 3 tasks, 20 min + 20 min prep
-
-## Key Features
-
-- Full practice exams in official DELE B2 format
-- Timed sections matching real exam conditions
-- Detailed explanations for all answers
-- Progress tracking across all sections
-- Audio listening exercises with native speakers
-
-## Platform
-
-- iOS (iPhone)
-- Available on the App Store
-
-## Links
-
+- Platform: iOS only (App Store)
+- Level: B2 (upper-intermediate) per the Common European Framework of Reference (CEFR)
+- Content: 7 full mock exams covering reading, listening, writing, and speaking
+- Audio: Professional recordings with native speakers
+- Writing: Free-form text input with AI scoring and correction
+- Progress: Results tracking by section and task
+- Practice modes: Daily quick practice + section-specific practice
+- Interface languages: 12 (English, Spanish, French, German, Portuguese, Brazilian Portuguese, Italian, Chinese, Japanese, Korean, Arabic, Russian)
+- Pricing: First exam free, subscription for full access
+- Developer: Independent (not affiliated with Instituto Cervantes)
+- Contact: hello@prepdele.com
 - Website: https://b2.prepdele.com
-- App Store: https://apps.apple.com/app/id0000000000
-- Support: https://b2.prepdele.com/support/
-- Privacy: https://b2.prepdele.com/privacy/
-- Terms: https://b2.prepdele.com/terms/
 
-## Contact
+## DELE B2 Exam Structure
 
-hello@prepdele.com
+- Test 1: Reading comprehension (70 min, 4 tasks, 36 items)
+- Test 2: Listening comprehension (40 min, 5 tasks, 30 items)
+- Test 3: Written expression and interaction (80 min, 2 tasks)
+- Test 4: Oral expression and interaction (20 min + 20 min preparation, 3 tasks)
+- Scoring: Group 1 (reading + writing) and Group 2 (listening + speaking), 50 points each, minimum 30 per group to pass
+
+## Common Use Cases
+
+- University admission in Spain and Latin America
+- Professional certification of Spanish proficiency
+- Access to master's programs and postgraduate studies
+- Career advancement in international organizations
+
+## Pages
+
+- [Homepage (Spanish)](https://b2.prepdele.com/)
+- [Homepage (English)](https://b2.prepdele.com/en/)
+- [Free sample exam](https://b2.prepdele.com/modelo-examen/)
+- [Blog / Preparation guides](https://b2.prepdele.com/blog/)
+- [Support / FAQ](https://b2.prepdele.com/support/)
+- [Privacy policy](https://b2.prepdele.com/privacy/)
+- [Terms of use](https://b2.prepdele.com/terms/)
+
+## Blog Articles
+
+- [¿Qué es el DELE B2?](https://b2.prepdele.com/blog/que-es-dele-b2/)
+- [DELE B1 vs B2](https://b2.prepdele.com/blog/dele-b1-vs-b2/)
+- [Cómo aprobar el DELE B2](https://b2.prepdele.com/blog/como-aprobar-dele-b2/)
+- [Expresión escrita: ejemplos](https://b2.prepdele.com/blog/expresion-escrita-dele-b2/)
+- [Vocabulario clave](https://b2.prepdele.com/blog/vocabulario-dele-b2/)
+- [Comprensión auditiva: consejos](https://b2.prepdele.com/blog/comprension-auditiva-dele-b2/)
