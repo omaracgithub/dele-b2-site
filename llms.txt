@@ -1,0 +1,40 @@
+# DELE B2 Prep App
+
+> Mobile app for preparing the DELE B2 Spanish language exam
+
+## About
+
+DELE B2 Prep is an iOS app that helps learners prepare for the DELE B2 (Diploma de Español como Lengua Extranjera, nivel B2) exam issued by Instituto Cervantes. The app provides realistic practice exams following the official format.
+
+## Exam Coverage
+
+The app covers all four sections of the DELE B2 exam:
+- Reading Comprehension (Comprensión de lectura) — 4 tasks, 70 minutes
+- Listening Comprehension (Comprensión auditiva) — 5 tasks, 40 minutes
+- Written Expression and Interaction (Expresión e interacción escritas) — 2 tasks, 80 minutes
+- Oral Expression and Interaction (Expresión e interacción orales) — 3 tasks, 20 min + 20 min prep
+
+## Key Features
+
+- Full practice exams in official DELE B2 format
+- Timed sections matching real exam conditions
+- Detailed explanations for all answers
+- Progress tracking across all sections
+- Audio listening exercises with native speakers
+
+## Platform
+
+- iOS (iPhone)
+- Available on the App Store
+
+## Links
+
+- Website: https://b2.prepdele.com
+- App Store: https://apps.apple.com/app/id0000000000
+- Support: https://b2.prepdele.com/support/
+- Privacy: https://b2.prepdele.com/privacy/
+- Terms: https://b2.prepdele.com/terms/
+
+## Contact
+
+hello@prepdele.com
