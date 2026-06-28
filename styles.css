@@ -360,15 +360,26 @@ html { -webkit-text-size-adjust: 100%; }
 
 }
 
-/* Blog CTA Box — unified style (high specificity to override article styles) */
+
+/* Blog CTA Box — unified style */
 .cta-box,
 .article-cta,
 main .article-cta,
 main.article .article-cta,
+article.post .cta-box {
+  background: linear-gradient(135deg, #1B4F72 0%, #154360 100%) !important;
+  border: none !important;
+  border-radius: 16px;
+  padding: 2rem 1.5rem;
+  margin: 2.5rem 0;
+  text-align: center;
+  color: #fff;
+}
 .cta-box p,
 .article-cta p,
 main .article-cta p,
 main.article .article-cta p,
+article.post .cta-box p {
   margin: 0 0 1.25rem;
   font-weight: 600;
   font-size: 1.1rem;
