@@ -10,7 +10,7 @@ const fs = require('fs');
 const path = require('path');
 
 const SITE_DIR = path.resolve(__dirname, '..');
-const APP_STORE_BASE = 'https://apps.apple.com/app/id0000000000';
+const APP_STORE_BASE = 'https://apps.apple.com/app/id6772564355';
 
 function getUtmParams(filePath, ctaName) {
   // Determine source from file path
